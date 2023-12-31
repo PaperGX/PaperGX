@@ -5,7 +5,7 @@ I'm Kevin, Java Developper from France !
 ## 💁 | About Me:
 
 `
-- 18 years old
+- `18 years old`
 - Terminale Général
 - French Java Developper`
 
