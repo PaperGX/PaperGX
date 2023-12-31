@@ -4,22 +4,19 @@ I'm Kevin, Java Developper from France !
 
 ## 💁 | About Me:
 
-`
 - `18 years old`
-- Terminale Général
-- French Java Developper`
+- `Terminale Général`
+- `French Java Developper`
 
 ## 💙 | My Passion
 
-`
-- Computer
-- Farmer
-- Maths`
+- `Computer`
+- `Farmer`
+- `Maths`
 
 ## 🆙 | My level:
 
-`
-- Java
-- Spigot
-- Forge
-- Learning SQL / NoSQL`
+- `Java`
+- `Spigot`
+- `Forge`
+- `Learning SQL / NoSQL`
