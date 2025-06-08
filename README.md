@@ -11,10 +11,10 @@
 </p>
 
 ### 🔭 Current Work
-- I'm currently working on [Etercube](https://etercube.fr/).
+- I'm currently focused on cybersecurity and pentesting projects
 
 ### 🌱 Learning
-- Currently learning **Java** and **MySQL**.
+- Currently learning **Java**, **MySQL**, **Kali Linux**, **C++**, and **C**.
 
 ### 👨‍💻 Projects
 - Explore all my projects on [GitHub](https://github.com/PaperGX).
