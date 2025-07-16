@@ -4,12 +4,6 @@
   <img src="https://komarev.com/ghpvc/?username=papergx&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=papergx&theme=flat&no-frame=true" alt="GitHub Trophies" />
-  </a>
-</p>
-
 ### 🔭 Current Work
 - I'm currently focused on cybersecurity and pentesting projects
 
@@ -74,23 +68,3 @@
 </p>
 
 ---
-
-<h3 align="left">Support:</h3>
-<p>
-  <a href="https://www.buymeacoffee.com/papergx">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" />
-  </a>
-</p>
-
----
-
-<h3 align="left">Stats:</h3>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=papergx&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=papergx&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=papergx&" alt="GitHub Streak" />
-</p>
